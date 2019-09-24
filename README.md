@@ -10,6 +10,6 @@ A playground for things related to Rust, WASM and the web
 
 ![alt text](https://i.imgur.com/5No412X.png "example to exe file helloWorld")
 ![alt text](https://i.imgur.com/mIaz0qr.png "example to exe file newPerson")
-![alt text](https://i.imgur.com/EjKleoP.png "example to exe file ifElseCounter")
+![alt text](https://i.imgur.com/cMOYHmP.png "example to exe file ifElseCounter")
 
 
