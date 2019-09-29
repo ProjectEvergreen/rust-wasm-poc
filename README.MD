@@ -9,9 +9,9 @@ A playground for things related to Rust, WASM and the web
 
 ------------------------------
 When running `wasm-pack build`  creates:
-rust_wasm_poc_bg.d.ts 
-rust_wasm_poc_bg.wasm
-rust_wasm_poc.d.ts
+rust_wasm_poc_bg.d.ts,
+rust_wasm_poc_bg.wasm,
+rust_wasm_poc.d.ts, and 
 rust_wasm_poc.js
 
 ```
