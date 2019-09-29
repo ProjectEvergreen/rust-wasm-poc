@@ -1,0 +1,1 @@
+{"rustc":18183863943228103741,"features":"[]","target":4467751489337457321,"profile":2574335274271406459,"path":10872709659218687626,"deps":[[14386853131558591544,"wasm_bindgen",false,8477776404202797889]],"local":[{"CheckDepInfo":{"dep_info":".fingerprint/rust-wasm-poc-d9aeb9e42ab8b6a0/dep-lib-rust_wasm_poc"}}],"rustflags":[],"metadata":5860811775112274736}
