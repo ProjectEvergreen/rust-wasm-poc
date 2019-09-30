@@ -1,5 +1,6 @@
 # rust-wasm-poc
 A playground for things related to Rust, WASM and the web
+[checkout here!](https://github.com/ProjectEvergreen/rust-wasm-poc/tree/wasm-rust)
 
 ----------------------------------------------
 ## rustc 
